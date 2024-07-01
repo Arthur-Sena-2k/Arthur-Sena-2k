@@ -30,4 +30,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.3s;" onmouseover="this.style.borderColor='#4CAF50';" onmouseout="this.style.borderColor='transparent';">
 </div>
 
+ ## Social Media
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-sena-/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthursena2209v2@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Thurra20_/)
+
 ![Snake](https://github.com/joaohcrangel/joaohcrangel/blob/output/github-contribution-grid-snake.svg)
