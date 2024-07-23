@@ -30,6 +30,8 @@ Como Hobbie e distrações gosto de andar pela orla, conhecer novas praias e cri
 <br />
 <div align="center">
 
+
+## Language:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,9 +47,7 @@ Como Hobbie e distrações gosto de andar pela orla, conhecer novas praias e cri
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.1s;" onmouseover="this.style.borderColor='#00EEF5';" onmouseout="this.style.borderColor='transparent';">
-</div>
+
 
  ## Social Media
  
