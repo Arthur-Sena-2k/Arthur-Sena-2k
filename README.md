@@ -14,7 +14,7 @@ Valorizo muito a transparência, a sinceridade e a honestidade, seja para assumi
 
 Sou extrovertido porem ao mesmo tempo timido..
 
-Como Hobbie, adoro passar um tempo dentro da Música, aprendendo diversos instrumentos e cantando; Andar pela orla, conhcer novas praias e criar memorias com minha familia, namorada e amigos.
+Como Hobbie e distrações gosto de andar pela orla, conhecer novas praias e criar memorias com minha familia, namorada e amigos. Jogar alguns jogos tanto FPS ou RPG.
 
 
 📫 arthursenav2@gmail.com
