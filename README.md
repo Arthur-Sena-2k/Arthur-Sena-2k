@@ -3,7 +3,7 @@
 </div>
 
 <details align="left">
-<summary align="center">🇧🇷 Um pouco sobre mim</summary>
+<summary align="center">🇧🇷 Um pouco sobre mim aqui🔽</summary>
 <p >
   
 Sempre gostei de tecnologia e passava o tempo ajudando meu pai a montar e desmontar computadores, que ajudou a aumentar meu apreço pela área da tecnoligia..
